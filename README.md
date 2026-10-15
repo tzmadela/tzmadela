@@ -23,16 +23,16 @@
 *   **Stack:** JavaScript / Google Apps Script, REST APIs, Security Data Parsing.
 *   **Impact:** Replaced manual CSV export routines, reducing vulnerability ingestion and reporting triage times from hours to seconds.
 
-#### 🍏 [intune-macos-usb-notifier](https://github.com) | Enterprise Endpoint MDM Middleware
+#### 🍏 [intune-macos-usb-notifier](https://github.com/tzmadela/intune-macos-usb-notifier) | Enterprise Endpoint MDM Middleware
 *Custom enterprise security middleware designed for Microsoft Intune to strictly enforce macOS USB storage access controls and automatically capture hardware serial logs.*
 *   **Stack:** Shell Scripting (Bash), macOS System Frameworks, MDM API integration.
 *   **Impact:** Hardened corporate hardware attack surfaces across distributed teams, delivering real-time telemetry back to central compliance monitoring.
 
-#### 📊 [Data-engineering](https://github.com) | High-Throughput Security Data Pipelines
+#### 📊 [Data-engineering](https://github.com/tzmadela/Data-engineering) | High-Throughput Security Data Pipelines
 *Advanced data engineering frameworks focused on log parsing, security event processing, and optimization datasets.*
 *   **Stack:** Python, Pandas, NumPy, Log Aggregation algorithms.
 
-#### 🤖 [RPA_Robocorp](https://github.com) | Automated OSINT & Cyber Threat Intelligence Scraper
+#### 🤖 [RPA_Robocorp](https://github.com/tzmadela/RPA_Robocorp) | Automated OSINT & Cyber Threat Intelligence Scraper
 *Robotic Process Automation script built with Robocorp to automate open-source threat intelligence data aggregation and reporting.*
 *   **Stack:** Python, Robocorp Framework, Automation Pipelines.
 
