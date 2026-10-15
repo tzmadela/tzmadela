@@ -4,7 +4,7 @@
 
 📍 **Base:** South Africa (Operating Globally)  
 💼 **Availability:** Open to International Remote Contracts / Engineering Roles  
-🔗 **LinkedIn:** [in/thandinkosi-madela](https://linkedin.com) | 📧 **Email:** ds.d140405@rws.com
+🔗 **LinkedIn:** [in/thandinkosi-madela](https://linkedin.com) | 📧 **Email:** thandinkosi.madela@yahoo.com
 
 ---
 
