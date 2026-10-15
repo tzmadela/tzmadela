@@ -41,7 +41,7 @@
 ### 📈 Technical Metrics & Tooling Sandbox
 ```text
 [SYSTEM STATS]
-OS/Environment   : Linux (Kali/Ubuntu) | macOS Enterprise
+OS/Environment   : Linux (Kali/Ubuntu) | macOS Enterprise | Windows
 Cloud Frameworks : Azure Security Center | Microsoft Entra ID | M365 Compliance
 Automation Stack : Python Cron | Bash Middleware | SOAR Webhooks | Git Actions
 ```
