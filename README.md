@@ -18,7 +18,7 @@
 
 ### 🏗️ Featured Production Repositories
 
-#### 🚀 [nessus-sheets]([https://github.com](https://github.com/tzmadela/nessus-sheets)) | SecOps Automation Pipeline
+#### 🚀 [nessus-sheets](https://github.com/tzmadela/nessus-sheets) | SecOps Automation Pipeline
 *An automated vulnerability data pipeline that parses Nessus XML scans and synchronizes intelligence to Google Workspace sheets via secure APIs.*
 *   **Stack:** JavaScript / Google Apps Script, REST APIs, Security Data Parsing.
 *   **Impact:** Replaced manual CSV export routines, reducing vulnerability ingestion and reporting triage times from hours to seconds.
